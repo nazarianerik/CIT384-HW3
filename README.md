@@ -1,5 +1,5 @@
 Erik Nazarian
-# CIT384-HW2
-Repo for CIT384-HW2 all files + hosted page.
+# CIT384-HW3
+Repo for CIT384-HW3 all files + link to hosted page.
 
 Live site: [View on GitHub Pages](https://nazarianerik.github.io/CIT384-HW3/)
